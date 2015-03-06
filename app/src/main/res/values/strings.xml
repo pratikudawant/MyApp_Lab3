@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Android Guide</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_about">About</string>
+    <string name="action_help">Help</string>
+    <string name="Term_btn"> Terminology</string>
+    <string name="Websites_btn">Websites</string>
+    <string name="Desc"> Desc</string>
+    <string name="Term"> SecondActivity</string>
+    <string name="Search_Btn">go</string>
+    <string name="about"> My name is Pratik Udawant, I am current in CPA program.</string>
+    <string name="Display">Please input a word</string>
+    <string-array name="android_key">
+        <item>Adb</item>
+        <item>Emulator</item>
+        <item>Android</item>
+        <item>ScreenShot2</item>
+        <item>Gradle</item>
+        <item>Pm</item>
+        <item>lint</item>
+        <item>Project</item>
+        <item>Panel</item>
+        <item>Toolbar</item>
+        <item>StatusBar</item>
+        <item>Preview Pane</item>
+        <item>Android Pane</item>
+        <item>Project Explorer</item>
+        <item>.idea Folder</item>
+        <item>Module</item>
+        <item>Live Layout</item>
+        <item>InIt</item>
+        <item>Commit</item>
+        <item>Push</item>
+        <item>Add</item>
+        <item>Pull</item>
+        <item>Branch</item>
+        <item>Clone</item>
+
+
+        </string-array>
+    <string-array name="terminology_key">
+        <item>Adb stands for Android Debug Bridge, its used in android application, also part of ansroid sdk. Its mainly used to manage emulators or real android device.</item>
+        <item>Emulator is a tool for user to develop, test android appplcation without having physical device. Its identical to all hardwares and softwares features that a physical devices would have.</item>
+        <item>Android is a command where you get option to list, add, delete update, sdk, avd or create a new project. You can also view different devices installed in your project.</item>
+    <item>ScreenShot2 gives you the screen shot of the actual android device. If you want to have a snap shot of your application, screen shot2 would be the best option.</item>
+    <item>Gradle is build tool, rather than having android build.  It is integrated with android studio. Gradle is flexible to build from command line.</item>
+    <item>Pm stands for package manager. You can view, install set permission or add an accessibility to your packages.</item>
+    <item>Lint is used on command line to test your application, or to see your your application meets requirements, for example to check if all brackets are placed in method.</item>
+    <item>Project is a tab on left hand side of the interface, It consist the tree hierarchy of the project your working on. It displays files in sub folders. You can easily locate where your files are saved if you want to work with them.</item>
+    <item>Android studio panel consist of various different options to work on your project. Options that are on panel are; Project, Structure, Favorites, Build Variants, TODO, Android, Terminal, Changed, Messages, Event Log, Gradle Console, memory Monitor, Gradle, Maven Projects, Commander </item>
+    <item>Andoird toolbar consist of many options for user to use save project  or run the app in different versions(AVD), download previous SDK. Toolbar consists of mainly app settings. There is also a map of where your files are located. Shortcuts to frequently performed tasks</item>
+    <item>Status bar is located at the bottom of the software, which provides information on status of the phone, for example how long has it been gradle is build, or android version.</item>
+    <item>Preview pane is just showing your phones display. You can edit or add anything on the phone and your will get a preview of what your phone will look like.</item>
+    <item>Android pane window gives user access to android debugging system. Within the pane user can also view output of running app, or take screenshots or videos of app.</item>
+    <item>Project explorer bascailly provides all the files that are in your assignment. All xml, java, string or any screenshots you take will be placed Inside your folder.</item>
+    <item>Idea Folder is a folder where your vcs.xml file is saved. It contains connection to git account.</item>
+    <item>Android studio dynamically creates default modules in java file for user to use for app functionality. For example ON create function or Oncreate options Menu and more.</item>
+        <item>Live layout of the phone gives u over view of how the app or design will look like as you go on.</item>
+        <item>Init is basically creating a empty folder or renaming the exisiting one. </item>
+        <item>Onces you commit to a file, Is basically recording the changed to the existing one.</item>
+        <item>When you push a project, all the files are saved upon github, under your account, if you provide username and password and master password.</item>
+        <item>When you add a new file to your project and you want to add its content to the index , that’s when you use this command</item>
+        <item>You can either grab your existing file on github or add a new file to the existing one.</item>
+        <item>If you want to list all the files or create new ones o delete the existing once, this command will be helpful.</item>
+        <item>This command is used if you want another copy of existing project to any selected folder.</item>
+    </string-array>
+
+
+
+    <string name="listname">List of Urls Links</string>
+    <string-array name="Urls">
+        <item>http://www.google.com</item>
+        <item>http://developer.android.com/reference/android/os/Bundle.html</item>
+        <item>http://developer.android.com/index.html</item>
+        <item>https://scs.senecac.on.ca/~john.selmys/subjects/map524-151/index.html</item>
+        <item>http://www.brox.su/books/android/IntAndro.pdf</item>
+        <item>http://www.tutorialspoint.com/android/</item>
+        <item>http://www.vogella.com/tutorials/AndroidListView/article.html</item>
+        <item>http://developer.android.com/guide/topics/ui/layout/listview.html</item>
+        <item>http://developer.android.com/guide/topics/ui/layout/linear.html</item>
+        <item>http://developer.android.com/reference/java/net/URL.html</item>
+        <item>https://play.google.com/store?hl=en</item>
+        <item>http://www.reddit.com/r/Android/</item>
+
+    </string-array>
+    <string name="help_info"> Terminology button provides android commands also uses AutoCompleteText to
+    provide users with help of other words .Website Buttons provides user to go on different websites
+    , and URL is provided for user.</string>
+</resources>
